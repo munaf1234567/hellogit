@@ -8,6 +8,7 @@ public class hellogit {
 		//deve2
 		System.out.println("this is my first msg dev2");
 		System.out.println("this is my first msg dev2");
+		System.out.println("this is my first msg dev2");
 	}
 
 }
