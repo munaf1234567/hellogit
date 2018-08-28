@@ -6,7 +6,7 @@ public class hellogit {
 	    //deve1
 		System.out.println("this is first msg dev1");
 		//deve2
-		System.out.println("this is first msg dev2");
+		System.out.println("this is my first msg dev2");
        
 	}
 
